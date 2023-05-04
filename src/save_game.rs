@@ -1,3 +1,4 @@
+#![allow(dead_code)]
 pub const SLOT_START_INDEX: i32 = 0x310; // 784
 pub const SLOT_LENGTH: i32 = 0x280000; // 2621440
 pub const SAVE_HEADERS_SECTION_START_INDEX: i32 = 0x19003B0; // 26215344
